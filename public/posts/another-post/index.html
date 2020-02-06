@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html><head>
+<title>Another Post</title>
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<script src="/vendor/js/jquery.min.js" ></script>
+<script src="/vendor/js/popper.min.js" ></script>
+<script src="/vendor/js/bootstrap.min.js" ></script>
+<script src="/vendor/js/smooth-scroll.polyfills.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+<script src="/vendor/js/vue.min.js" ></script>
+<script src="https://kit.fontawesome.com/237294508b.js" crossorigin="anonymous"></script>
+
+
+
+<link rel="stylesheet" href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/scss/journal.min.6b9ead341ecdc3aae97c0c39f1414e156b84888443cc565fb2b71de77c99e5c2.css" integrity="sha256-a56tNB7Nw6rpfAw58UFOFWuEiIRDzFZfsrcd53yZ5cI=" media="screen">
+
+<script src="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/js/loadCSS.js"></script>
+<script src="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/js/table.js"></script>
+
+
+<script src="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/js/toc.js"></script>
+
+
+<script>
+    loadCSS("https://fonts.googleapis.com/css?family=Lora|Montserrat|Fira+Mono|Noto+Serif+SC|Material+Icons");
+</script>
+
+</head><body>
+    	<div id="app"><div ref="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com">
+    
+        <div class="nav-title">
+            Xanthia N
+        </div>
+        
+        <div class="nav-subtitle">
+            Newbie software engineer trying to be a good cook
+        </div>
+        <a href="https://github.com/xiaodi-nie" class="fab fa-github"> <span style="font-family: 'Montserrat', sans-serif;"> &nbsp; GitHub &nbsp;</span>
+        <a href="https://www.linkedin.com/in/xiaodi-xanthia-nie-028757151/" class="fab fa-linkedin"> <span style="font-family: 'Montserrat', sans-serif;">&nbsp; LinkedIn &nbsp;</span>
+        <br>
+
+        
+    </a>
+    
+    
+            
+    
+    
+    <div class="nav-link-list">
+        
+        
+            
+                
+                
+                <a class="a-block nav-link-item false" href="/aboutme">
+                    About Me
+                </a>
+        
+            
+                
+                
+                <a class="a-block nav-link-item false" href="/tags">
+                    Tags
+                </a>
+        
+            
+                
+                
+                <a class="a-block nav-link-item false" href="/categories">
+                    Categories
+                </a>
+        
+            
+                
+                
+                <a class="a-block nav-link-item false" href="/4">
+                    Tag4
+                </a>
+        
+            
+                
+                
+                <a class="a-block nav-link-item false" href="/5">
+                    Tag5
+                </a>
+        
+    </div>
+    
+    
+
+    <div class="nav-footer">
+        
+        <br>
+
+<br>
+&copy;
+	
+	2020 Xanthia N
+	
+    </div>
+    
+</div><div ref="extraContainer" class="extra-container">
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#nutty-cloud-souffle" v-on:click="closeDrawer" id="nutty-cloud-souffle-nav">
+										 Nutty Cloud Souffle
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+	</div>
+
+</div>
+    
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+    </div>
+</div><div class="single-column-drawer-container" ref="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+                
+                    
+                    
+                    <a class="a-block drawer-menu-item false" href="/aboutme">
+                        About Me
+                    </a>
+            
+                
+                    
+                    
+                    <a class="a-block drawer-menu-item false" href="/tags">
+                        Tags
+                    </a>
+            
+                
+                    
+                    
+                    <a class="a-block drawer-menu-item false" href="/categories">
+                        Categories
+                    </a>
+            
+                
+                    
+                    
+                    <a class="a-block drawer-menu-item false" href="/4">
+                        Tag4
+                    </a>
+            
+                
+                    
+                    
+                    <a class="a-block drawer-menu-item false" href="/5">
+                        Tag5
+                    </a>
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+			
+				
+				
+					
+						
+						
+							<ul>
+						
+							<ul>
+						
+						
+								<li>
+				 					<a href="#nutty-cloud-souffle" v-on:click="closeDrawer" id="nutty-cloud-souffle-nav">
+										 Nutty Cloud Souffle
+									</a>
+								</li>
+						
+							</ul>
+						
+							</ul>
+						
+					
+				
+			
+	</div>
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav ref="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div ref="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a ref="navTitle" class="navbar-brand" href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com">
+            Xanthia N
+        </a>
+    </div>
+</nav>
+<div class="single-column-header-container" ref="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com">
+        <div class="single-column-header-title">Xanthia N</div>
+        
+        <div class="single-column-header-subtitle">Newbie software engineer trying to be a good cook</div>
+        
+
+    </a>
+</div>
+            <div id="content">
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                 style="background-image: url('/')">
+                <div class="post-title">
+                    Another Post
+                    <div class="post-meta">
+                        <time itemprop="datePublished">
+                            2020-02-05 21:54
+                        </time>
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="/categories/recipes">Recipes</a>
+                                &nbsp;
+                        
+
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    <h2 id="nutty-cloud-souffle">Nutty Cloud Souffle</h2>
+<p>this is the recipe for my easy souffle</p>
+
+                    <HR width="100%" id="EOF">
+                    <p style="color:#777;">Last modified on 2020-02-05</p>
+                </div>
+                
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts">
+                    Next<br>No newer posts.
+                </a>
+                
+                
+                
+                <a class="older-posts" href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/my-first-post/">
+                    Previous<br>Test Post on CodeBuild
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div><div id="single-column-footer"><br>
+
+<br>
+&copy;
+	
+	2020 Xanthia N
+	</div>
+
+       
+    	</div>
+    <script src="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/js/journal.js"></script>
+    </body>
+</html>

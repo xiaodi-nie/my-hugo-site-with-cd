@@ -1,9 +1,33 @@
 baseURL = "http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com"
 languageCode = "en-us"
-title = "My New Hugo Site via AWS Cloud9"
-theme = "ananke"
+title = "Xanthia N"
+theme = "diary"
 
 [[deployment.targets]]
 # An arbitrary name for this target.
 name = "jan23awsbucket"
 URL = "s3://jan23-website-hosting/?region=us-east-1" #your bucket here
+
+[params]
+subtitle = "Newbie software engineer trying to be a good cook"
+
+[[menu.main]]
+url = "/5"
+name = "Tag5"
+weight = 5
+[[menu.main]]
+url = "/4"
+name = "Tag4"
+weight = 4
+[[menu.main]]
+url = "/categories"
+name = "Categories"
+weight = 3
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 2
+[[menu.main]]
+url = "/Aboutme"
+name = "About Me"
+weight = 1
