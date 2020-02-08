@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/</loc>
+    <lastmod>2020-02-05T21:54:35+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/another-post/</loc>
     <lastmod>2020-02-05T21:54:35+00:00</lastmod>
   </url>
@@ -23,11 +28,6 @@
   </url>
   
   <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/</loc>
-    <lastmod>2020-02-05T21:54:35+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/coding/</loc>
     <lastmod>2020-01-23T20:36:44+00:00</lastmod>
   </url>
@@ -35,6 +35,10 @@
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/my-first-post/</loc>
     <lastmod>2020-01-23T20:36:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/series/</loc>
   </url>
   
   <url>
