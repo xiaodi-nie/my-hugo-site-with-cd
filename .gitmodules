@@ -6,4 +6,4 @@
 	url = https://github.com/AmazingRise/hugo-theme-diary.git
 [submodule "themes/zzo"]
 	path = themes/zzo
-	url = https://github.com/zzossig/hugo-theme-zzo.git
+	url = https://github.com/xiaodi-nie/hugo-theme-zzo.git

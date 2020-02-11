@@ -1,30 +1,35 @@
 [[main]]
-  identifier = "about me"
-  name = "about me"
-  url = "aboutme"
+  identifier = "about"
+  name = "About"
+  url = "about"
   weight = 1
 
 [[main]]
   identifier = "archive"
-  name = "archive"
+  name = "Archive"
   url = "archive"
   weight = 2
 
 [[main]]
   identifier = "gallery"
-  name = "gallery"
+  name = "Gallery"
   url = "gallery"
   weight = 3
     
 
 [[main]]
   parent = "gallery"
-  name = "photo"
-  url = "gallery/photo"
+  name = "Photos"
+  url = "gallery/photos"
 
 [[main]]
   identifier = "posts"
-  name = "posts"
+  name = "Posts"
   url = "posts"
   weight = 4
     
+[[main]]
+  identifier = "resume"
+  name = "CV"
+  url = "resume"
+  weight = 5
