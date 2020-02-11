@@ -8,12 +8,21 @@
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
-    <lastBuildDate>Wed, 05 Feb 2020 21:54:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 20:13:59 +0900</lastBuildDate>
     
         <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Resume</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/resume/</link>
+        <pubDate>Sun, 09 Feb 2020 20:13:59 +0900</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/resume/</guid>
+        <description></description>
+      </item>
       
       <item>
         <title>Another Post</title>
@@ -22,6 +31,15 @@
         <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/another-post/</guid>
         <description>Nutty Cloud Souffle this is the recipe for my easy souffle</description>
+      </item>
+      
+      <item>
+        <title>About me</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/about/</link>
+        <pubDate>Thu, 30 Jan 2020 12:50:46 +0900</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/about/</guid>
+        <description></description>
       </item>
       
       <item>

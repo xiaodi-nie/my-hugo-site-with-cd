@@ -4,7 +4,12 @@
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/</loc>
-    <lastmod>2020-02-05T21:54:35+00:00</lastmod>
+    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/resume/</loc>
+    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
   </url>
   
   <url>
@@ -25,6 +30,11 @@
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/recipes/</loc>
     <lastmod>2020-02-05T21:54:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/about/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
   </url>
   
   <url>
