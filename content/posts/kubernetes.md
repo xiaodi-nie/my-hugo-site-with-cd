@@ -16,6 +16,8 @@ categories:
 - Course notes
 ---
 
+This is a course note and the majority of the meterials came from [this qwiklab](https://www.qwiklabs.com/focuses/557?parent=catalog)
+
 ## Overview
 
 Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The Kubernetes Engine environment consists of multiple machines (specifically Google Compute Engine instances) grouped together to form a container cluster.
