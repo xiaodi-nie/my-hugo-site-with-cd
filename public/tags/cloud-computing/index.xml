@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Xanthia Nie</title>
-    <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/</link>
-    <description>Recent content in Posts on Xanthia Nie</description>
+    <title>cloud computing on Xanthia Nie</title>
+    <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</link>
+    <description>Recent content in cloud computing on Xanthia Nie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
     <lastBuildDate>Wed, 12 Feb 2020 00:51:51 +0000</lastBuildDate>
     
-        <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,24 +23,6 @@
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/kubernetes/</guid>
         <description>Overview Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The Kubernetes Engine environment consists of multiple machines (specifically Google Compute Engine instances) grouped together to form a container cluster.
 Kubernetes Engine clusters are powered by the Kubernetes open source cluster management system. Kubernetes provides the mechanisms through which you interact with your container cluster. You use Kubernetes commands and resources to deploy and manage your applications, perform administration tasks and set policies, and monitor the health of your deployed workloads.</description>
-      </item>
-      
-      <item>
-        <title>Another Post</title>
-        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/another-post/</link>
-        <pubDate>Wed, 05 Feb 2020 21:54:35 +0000</pubDate>
-        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
-        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/another-post/</guid>
-        <description>Nutty Cloud Souffle this is the recipe for my easy souffle</description>
-      </item>
-      
-      <item>
-        <title>Test Post on CodeBuild</title>
-        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/my-first-post/</link>
-        <pubDate>Thu, 23 Jan 2020 20:36:44 +0000</pubDate>
-        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
-        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/my-first-post/</guid>
-        <description>Test on continuous delivery with aws codebuild this is an update lalala</description>
       </item>
       
     

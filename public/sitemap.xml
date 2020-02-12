@@ -4,7 +4,62 @@
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/</loc>
-    <lastmod>2020-02-09T20:13:59+09:00</lastmod>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/coding/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/course-notes/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/kubernetes/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/</loc>
+    <lastmod>2020-02-12T00:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/gallery/</loc>
+    <lastmod>2020-02-11T16:56:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/gallery/photos/</loc>
+    <lastmod>2020-02-11T16:56:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/series/</loc>
+    <lastmod>2020-02-11T16:56:04+00:00</lastmod>
   </url>
   
   <url>
@@ -14,16 +69,6 @@
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/another-post/</loc>
-    <lastmod>2020-02-05T21:54:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/</loc>
-    <lastmod>2020-02-05T21:54:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/</loc>
     <lastmod>2020-02-05T21:54:35+00:00</lastmod>
   </url>
   
@@ -38,21 +83,13 @@
   </url>
   
   <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/coding/</loc>
-    <lastmod>2020-01-23T20:36:44+00:00</lastmod>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/archive/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/my-first-post/</loc>
     <lastmod>2020-01-23T20:36:44+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/</loc>
   </url>
   
 </urlset>
