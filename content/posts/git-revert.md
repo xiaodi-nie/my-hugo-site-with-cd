@@ -33,6 +33,35 @@ Reverts all the changes done by the commits in between, or similarly you can als
 git revert <COMMIT_ID1>..<COMMIT_ID2>
 ```
 
-## Compare to other 'go back' methods
+### Compare to other 'undo' methods
 
-//todo
+#### git reset
+
+This is like a complete rollback and it would move the working tree back to the last commited state. No new commit will be created and commits after the designated target may be lost. And it will change the commit history.
+You can have several options as to what to do with your **index**(set of files that's going to be the next commit) and the working directory:
+
+```git reset --soft``` will only change the current HEAD to point to another commit, but the index and working directory remains unchanged.
+
+```git reset --mixed``` will change the HEAD pointer and the index, but the working directory will stay the same.
+
+```git reset --hard``` will change everything. This means every change after the other commit will be gone forever.
+(However if you accidentally erased something with the --hard option there's always ```git reflog``` to help you get almost everything back)
+
+#### git checkout
+
+This is used to change the HEAD pointer to another commit or switch between branches. It will also rollback file changes after that commit and can change the files in the working directory. The commit history will not be changed.
+
+Typical use cases:
+
+- undo local changes to a file:  ```git checkout file_name```
+- undo local commits:
+```
+git checkout target_branch
+git reset HEAD~2 #rollback 2 commits
+```
+
+### Git cheat sheet
+
+![git cheat sheet1](/images/git_cheat_sheet1.jpg)
+
+![git cheat sheet2](/images/git_cheat_sheet2.jpg)
