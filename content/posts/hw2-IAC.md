@@ -3,7 +3,6 @@ title: "Cloud Analysis course note - IaC and cloud service model"
 date: 2020-02-19T22:34:03Z
 draft: false
 description: "Cloud Analysis course discussion note on IAC, SaaS, PaaS, IaaS, MaaS and Serverless"
-draft: false
 hideToc: false
 enableToc: true
 enableTocContent: true
