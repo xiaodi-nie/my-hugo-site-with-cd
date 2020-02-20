@@ -1,5 +1,5 @@
 ---
-title: "Hw3 AWS"
+title: "Cloud Analysis course notes - AWS"
 date: 2020-02-19T23:05:40Z
 draft: false
 description: "Cloud Analysis course discussion note on AWS network security strategy and spot instance"
