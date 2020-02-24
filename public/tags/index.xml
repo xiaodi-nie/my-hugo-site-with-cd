@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Xanthia Nie</title>
     <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/</link>
@@ -8,31 +13,177 @@
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
-    <lastBuildDate>Wed, 12 Feb 2020 00:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 21:25:08 +0000</lastBuildDate>
     
         <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+
+      
+      <item>
+        <title>asics</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/asics/</link>
+        <pubDate>Mon, 24 Feb 2020 21:25:08 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/asics/</guid>
+        <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>machine learning</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/machine-learning/</link>
+        <pubDate>Mon, 24 Feb 2020 21:25:08 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/machine-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>cloud computing</title>
         <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</link>
-        <pubDate>Wed, 12 Feb 2020 00:51:51 +0000</pubDate>
+        <pubDate>Thu, 20 Feb 2020 02:08:02 +0000</pubDate>
         <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</guid>
         <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
       </item>
       
       <item>
         <title>containers</title>
         <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</link>
-        <pubDate>Wed, 12 Feb 2020 00:51:51 +0000</pubDate>
+        <pubDate>Wed, 19 Feb 2020 23:36:27 +0000</pubDate>
         <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</guid>
         <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
       </item>
       
+      <item>
+        <title>aws</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</link>
+        <pubDate>Wed, 19 Feb 2020 23:05:40 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</guid>
+        <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>IaC</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/iac/</link>
+        <pubDate>Wed, 19 Feb 2020 22:34:03 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/iac/</guid>
+        <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>continuous deployment</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/continuous-deployment/</link>
+        <pubDate>Fri, 14 Feb 2020 18:50:12 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/continuous-deployment/</guid>
+        <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hugo</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/hugo/</link>
+        <pubDate>Fri, 14 Feb 2020 18:50:12 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/hugo/</guid>
+        <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>git</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/git/</link>
+        <pubDate>Wed, 12 Feb 2020 03:07:10 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/git/</guid>
+        <description></description>
+        
+        <dc:creator>Xanthia Nie</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

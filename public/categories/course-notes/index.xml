@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Course notes on Xanthia Nie</title>
     <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/course-notes/</link>
@@ -8,23 +13,250 @@
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
-    <lastBuildDate>Wed, 12 Feb 2020 00:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 21:25:08 +0000</lastBuildDate>
     
         <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/course-notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+
+      
+      <item>
+        <title>Cloud Analysis course discussion note - ASICs</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw6-asics/</link>
+        <pubDate>Mon, 24 Feb 2020 21:25:08 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <atom:modified>Mon, 24 Feb 2020 21:25:08 +0000</atom:modified>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw6-asics/</guid>
+        <description>How could ASICs play an important role in Machine Learning going forward? Machine learning tasks, including the training and the inference, usually cost a lot of computational resources and time. So there is a big need for a hardware acceleration. Hardware acceleration is when dedicated hardware, usually in the form of a GPU today, is used to speed up the computing processes present in an AI workflow. Accelerators have many optimisations that make them suitable for training and executing an AI model, and here are some of them:</description>
+        
+        <dc:creator>Xanthia</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>machine learning</category>
+            
+          
+            
+              <category>asics</category>
+            
+          
+        
+        
+          
+            
+              <category>Coding</category>
+            
+          
+            
+              <category>Course notes</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Cloud Analysis course notes - CAP Theorem and Amdahl&#39;s Law</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw5-cap/</link>
+        <pubDate>Thu, 20 Feb 2020 02:08:02 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <atom:modified>Thu, 20 Feb 2020 02:08:02 +0000</atom:modified>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw5-cap/</guid>
+        <description>How does the CAP Theorem play a role in designing for the cloud? The CAP Theorem says that for a distributed system, you can only have 2 of the 3 things: Consistency, Availability and Partition Tolerance.
+Consistency means that only have one copy of up-to-date data, and that all clients see the same data at the same time, no matter which node they connect to. For this to happen, whenever data is written to one node, it must be instantly forwarded or replicated to all the other nodes in the system before the write is deemed ‘successful.</description>
+        
+        <dc:creator>Xanthia</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>cloud computing</category>
+            
+          
+            
+              <category>machine learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Coding</category>
+            
+          
+            
+              <category>Course notes</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Cloud Analysis course notes - Containers</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw4-containers/</link>
+        <pubDate>Wed, 19 Feb 2020 23:36:27 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <atom:modified>Wed, 19 Feb 2020 23:36:27 +0000</atom:modified>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw4-containers/</guid>
+        <description>What are containers? The concept of containers is similar to that of virtual machines. The differentiating factor is that VMs virtualize at the hardware level and containers virtualize at the operating system level. The containerization approach creates a more lightweight and flexible environment by allowing applications to share an operating system while maintaining their own executables, code, libraries, tools, and configuration files.
+A container consists of an entire runtime environment: an application, plus all its dependencies, libraries and other binaries, and configuration files needed to run it, bundled into one package.</description>
+        
+        <dc:creator>Xanthia</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>cloud computing</category>
+            
+          
+            
+              <category>containers</category>
+            
+          
+        
+        
+          
+            
+              <category>Coding</category>
+            
+          
+            
+              <category>Course notes</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Cloud Analysis course notes - AWS</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw3-aws/</link>
+        <pubDate>Wed, 19 Feb 2020 23:05:40 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <atom:modified>Wed, 19 Feb 2020 23:05:40 +0000</atom:modified>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw3-aws/</guid>
+        <description>What are the different layers of network security on AWS and what unique problems do each solve? According to the AWS security white paper, AWS has the following layers of network security:
+ Secure Network Architecture  There are network devices like firewalls at the edge of the aws network to closely monitor and guard the information flow in both ways. ACLs, or Access Control List are in place to manage the traffic flow.</description>
+        
+        <dc:creator>Xanthia</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>cloud computing</category>
+            
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>Coding</category>
+            
+          
+            
+              <category>Course notes</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Cloud Analysis course note - IaC and cloud service model</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw2-iac/</link>
+        <pubDate>Wed, 19 Feb 2020 22:34:03 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <atom:modified>Wed, 19 Feb 2020 22:34:03 +0000</atom:modified>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw2-iac/</guid>
+        <description>What is IAC and what problem does it solve? IAC stands for Infrastructure as Code. is a method to provision and manage IT infrastructure through the use of source code, rather than through standard operating procedures and manual processes.
+You’re basically treating your servers, databases, networks, and other infrastructure like software. And this code can help you configure and deploy these infrastructure components quickly and consistently.
+IaC helps you automate the infrastructure deployment process in a repeatable, consistent manner, which has many benefits.</description>
+        
+        <dc:creator>Xanthia</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>cloud computing</category>
+            
+          
+            
+              <category>IaC</category>
+            
+          
+        
+        
+          
+            
+              <category>Coding</category>
+            
+          
+            
+              <category>Course notes</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Kubernetes basics</title>
         <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/kubernetes/</link>
         <pubDate>Wed, 12 Feb 2020 00:51:51 +0000</pubDate>
         <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <atom:modified>Wed, 12 Feb 2020 00:51:51 +0000</atom:modified>
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/kubernetes/</guid>
-        <description>Overview Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The Kubernetes Engine environment consists of multiple machines (specifically Google Compute Engine instances) grouped together to form a container cluster.
-Kubernetes Engine clusters are powered by the Kubernetes open source cluster management system. Kubernetes provides the mechanisms through which you interact with your container cluster. You use Kubernetes commands and resources to deploy and manage your applications, perform administration tasks and set policies, and monitor the health of your deployed workloads.</description>
+        <description>This is a course note and the majority of the meterials came from this qwiklab
+Overview Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The Kubernetes Engine environment consists of multiple machines (specifically Google Compute Engine instances) grouped together to form a container cluster.
+Kubernetes Engine clusters are powered by the Kubernetes open source cluster management system. Kubernetes provides the mechanisms through which you interact with your container cluster.</description>
+        
+        <dc:creator>Xanthia</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>cloud computing</category>
+            
+          
+            
+              <category>containers</category>
+            
+          
+        
+        
+          
+            
+              <category>Coding</category>
+            
+          
+            
+              <category>Course notes</category>
+            
+          
+        
+        
       </item>
       
+
     
   </channel>
 </rss>
