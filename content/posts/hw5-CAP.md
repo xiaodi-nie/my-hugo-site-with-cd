@@ -38,3 +38,10 @@ where s is the speedup of the part of the task that benefits from improved syste
 Even you can achieve perfect parallelism and scale up the program to match the theoretical estimation, the more cores you have, the less it’s going to improve the performance. There’s always overhead with parallelism at the hardware level(additional computer cycles required to divide tasks into subtasks and compile results after). It’s going to grow the more you parallelize, and it also applies for parallelism in a cloud environment. 
 
 In conclusion, even though it’s tempting to parallelize large data set in machine learning project, you should always keep in mind that parallelism wouldn’t necessarily lead to performance improvement.
+
+## References
+https://www.ibm.com/cloud/learn/cap-theorem
+
+https://en.wikipedia.org/wiki/Amdahl%27s_law
+
+https://www.kdnuggets.com/2017/04/must-know-parallelism-algorithms.html
