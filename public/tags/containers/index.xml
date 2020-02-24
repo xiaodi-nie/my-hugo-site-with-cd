@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>containers on Xanthia Nie</title>
     <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</link>
@@ -19,45 +14,15 @@
     
     
     
-
       
       <item>
         <title>Cloud Analysis course notes - Containers</title>
         <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw4-containers/</link>
         <pubDate>Wed, 19 Feb 2020 23:36:27 +0000</pubDate>
         <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
-        <atom:modified>Wed, 19 Feb 2020 23:36:27 +0000</atom:modified>
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw4-containers/</guid>
         <description>What are containers? The concept of containers is similar to that of virtual machines. The differentiating factor is that VMs virtualize at the hardware level and containers virtualize at the operating system level. The containerization approach creates a more lightweight and flexible environment by allowing applications to share an operating system while maintaining their own executables, code, libraries, tools, and configuration files.
 A container consists of an entire runtime environment: an application, plus all its dependencies, libraries and other binaries, and configuration files needed to run it, bundled into one package.</description>
-        
-        <dc:creator>Xanthia</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>cloud computing</category>
-            
-          
-            
-              <category>containers</category>
-            
-          
-        
-        
-          
-            
-              <category>Coding</category>
-            
-          
-            
-              <category>Course notes</category>
-            
-          
-        
-        
       </item>
       
       <item>
@@ -65,42 +30,12 @@ A container consists of an entire runtime environment: an application, plus all 
         <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/kubernetes/</link>
         <pubDate>Wed, 12 Feb 2020 00:51:51 +0000</pubDate>
         <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
-        <atom:modified>Wed, 12 Feb 2020 00:51:51 +0000</atom:modified>
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/kubernetes/</guid>
         <description>This is a course note and the majority of the meterials came from this qwiklab
 Overview Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The Kubernetes Engine environment consists of multiple machines (specifically Google Compute Engine instances) grouped together to form a container cluster.
 Kubernetes Engine clusters are powered by the Kubernetes open source cluster management system. Kubernetes provides the mechanisms through which you interact with your container cluster.</description>
-        
-        <dc:creator>Xanthia</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>cloud computing</category>
-            
-          
-            
-              <category>containers</category>
-            
-          
-        
-        
-          
-            
-              <category>Coding</category>
-            
-          
-            
-              <category>Course notes</category>
-            
-          
-        
-        
       </item>
       
-
     
   </channel>
 </rss>
