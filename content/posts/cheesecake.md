@@ -1,5 +1,5 @@
 ---
-title: "Cheesecake"
+title: "Cheese cake"
 date: 2020-02-26T23:57:07Z
 draft: false
 description: "Low carb lemon-y cheesecake"
@@ -18,6 +18,7 @@ categories:
 
 ### Ingredients
 **Base**
+
 Item | Measure
    --------|------
   Almond flour | 0.8 cup
@@ -28,6 +29,7 @@ Item | Measure
   Salt | small pinch
 
 **Filling**
+
 Item | Measure
    --------|------
   Full fat cream cheese | 16 oz

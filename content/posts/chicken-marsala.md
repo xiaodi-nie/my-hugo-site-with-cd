@@ -18,7 +18,7 @@ categories:
 ### Ingredients
 Item | Measure
    --------|------
-  1/4 inch thick chicken brease | 1 1/2 lb
+  1/4 inch thick chicken breast | 1 1/2 lb
   All-purpose flour | 3 tbsp
   Salt | to taste
   Pepper | to taste
