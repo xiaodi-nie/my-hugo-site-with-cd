@@ -68,7 +68,7 @@ In our source code, `data` and `el` are output to the console in each hook metho
 4. `beforeDestroy()`, `destroyed()`
     
     These hooks will only be called when a vue instance is destroyed and no longer exists in the DOM. Here we use a `v-if` to destroy the `helloWorld` component instance to invoke these hooks in the `helloWorld.vue` component source code.
-```
+```vue
 <script>
 export default {
   name: 'HelloWorld',
@@ -86,7 +86,7 @@ export default {
 ```
 In our template there's a button and a method called `update` will be invoked on click. In this method, boolean variable `show` will be updated from its initial value `true` to `false`, which will then make `HelloWorld` invisible.
 
-```
+```vue
     <button @click="update">update data</button>
     <HelloWorld msg="Welcome to Your Vue.js App" v-if="show"/>  
 ```
