@@ -44,3 +44,7 @@ Since I'm still learning and half way through the code there may be some unused 
 Also the default configuration generated using vue-cli had `"plugin:vue/essential"` in the `extends` field where it enforces error prevention and enables the `vue/no-unused-component` rule. I changed it to `"plugin:vue/base"` to get rid of the error everytime I registered but haven't got around to use the component. 
 
 I Know these are bad practices and you can never be too strict on increasing the readability of the code. However this is just to note down what I did during development for future references.
+
+reference:
+
+https://eslint.vuejs.org/rules/
