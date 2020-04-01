@@ -23,12 +23,14 @@ The code was largely taken from [this repo](https://github.com/Aliga8or/csds-spa
 ### Steps
 **Create Cluster**
 - Log in to your AWS console and go to EMR to create a spark cluster with the following configurataions:
-    
-    ![config1](https://github.com/xiaodi-nie/wordcount-on-amazonEMR/blob/master/img/emr_config.png)
+
+    {{< img src="https://github.com/xiaodi-nie/wordcount-on-amazonEMR/blob/master/img/emr_config.png" title="" caption="" alt="emr config" width="" height="" position="center" >}}
 
 - Don't forget to choose or create a EC2 key pair so that we can ssh onto the master node later:
+
+    {{< img src="https://github.com/xiaodi-nie/wordcount-on-amazonEMR/blob/master/img/emr_security.png" title="" caption="" alt="emr security" width="" height="" position="center" >}}
+
     
-    ![config2](https://github.com/xiaodi-nie/wordcount-on-amazonEMR/blob/master/img/emr_security.png)
 
 It will take around 15 minutes for the cluster to spin up. You should see the cluster status show `Ready` when it's fully up and running.
 
