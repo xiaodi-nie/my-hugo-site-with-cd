@@ -17,7 +17,7 @@ categories:
 - Course notes
 ---
 
-##	What are the tradeoffs with a serverless architecture?
+###	What are the tradeoffs with a serverless architecture?
 
 There are many **advantages** of using a serverless architecture, and to name a few:
 
@@ -38,7 +38,7 @@ However, there are also a number of **trade-offs** to consider when going the se
 
 **Development difficulties**: integration test and debugging can be difficult. You may not have control over all the other services surrounding your function, and debugging from vendor platform may not be so convenient.
 
-## What are the advantages of developing with Cloud9?
+### What are the advantages of developing with Cloud9?
 
 Since AWS Cloud 9 is cloud-based, users are encouraged to have a flexible and efficient development environment. Developers can **run, write, and debug apps** through a **web browser** that frees them from the usual local IDE constraints.
 
@@ -48,7 +48,7 @@ Cloud9 **pre-configures** the user’s development environment with all the esse
 
 Moreover, AWS Cloud9 IDE has a **terminal with sudo** privileges connected to the managed Amazon EC2 instance that hosts the whole development environment. The setup also has a pre-authenticated **AWS Command Line Interface**. With these features, users can access AWS services and run commands quicker.
 
-###References
+## References
 
 https://medium.com/@pablo.iorio/serverless-architectures-i-iii-design-and-technical-trade-offs-8ca5d637f98e
 
