@@ -8,12 +8,21 @@
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
-    <lastBuildDate>Thu, 20 Feb 2020 02:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 19:10:57 +0000</lastBuildDate>
     
         <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Cloud Analysis course notes - Cloud Databases</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw7-clouddb/</link>
+        <pubDate>Wed, 04 Mar 2020 19:10:57 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw7-clouddb/</guid>
+        <description>What are the problems with a “one size fits all” approach to relational databases? In the past, the reason why so many businesses model their data to try and fit the use cases of a relational database is that there is no other choice, so in reality many kinds of data are actually not suitable for relational model. Of course this is not to say relational databases cannot provide scalable, available and high performance service, it’s just that we now have many other database models to better suit different use cases.</description>
+      </item>
       
       <item>
         <title>Cloud Analysis course notes - CAP Theorem and Amdahl&#39;s Law</title>

@@ -8,12 +8,120 @@
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
-    <lastBuildDate>Thu, 27 Feb 2020 00:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 02:16:03 +0000</lastBuildDate>
     
         <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>google cloud</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/google-cloud/</link>
+        <pubDate>Fri, 03 Apr 2020 02:16:03 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/google-cloud/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>serverless</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/serverless/</link>
+        <pubDate>Fri, 03 Apr 2020 02:16:03 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/serverless/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>aws</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</link>
+        <pubDate>Wed, 01 Apr 2020 20:25:40 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>map reduce</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/map-reduce/</link>
+        <pubDate>Wed, 01 Apr 2020 20:25:40 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/map-reduce/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>spark</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/spark/</link>
+        <pubDate>Wed, 01 Apr 2020 20:25:40 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/spark/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>vue</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/vue/</link>
+        <pubDate>Wed, 18 Mar 2020 20:25:25 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/vue/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>cloud storage</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-storage/</link>
+        <pubDate>Tue, 10 Mar 2020 01:05:21 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-storage/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>data lakes</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/data-lakes/</link>
+        <pubDate>Tue, 10 Mar 2020 01:05:21 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/data-lakes/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>cloud computing</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</link>
+        <pubDate>Wed, 04 Mar 2020 19:10:57 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>cloud databases</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-databases/</link>
+        <pubDate>Wed, 04 Mar 2020 19:10:57 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-databases/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>containers</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</link>
+        <pubDate>Thu, 27 Feb 2020 20:22:43 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>docker</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/docker/</link>
+        <pubDate>Thu, 27 Feb 2020 20:22:43 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/docker/</guid>
+        <description></description>
+      </item>
       
       <item>
         <title>savory recipe</title>
@@ -57,33 +165,6 @@
         <pubDate>Mon, 24 Feb 2020 21:25:08 +0000</pubDate>
         <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
         <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/machine-learning/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>cloud computing</title>
-        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</link>
-        <pubDate>Thu, 20 Feb 2020 02:08:02 +0000</pubDate>
-        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
-        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>containers</title>
-        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</link>
-        <pubDate>Wed, 19 Feb 2020 23:36:27 +0000</pubDate>
-        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
-        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>aws</title>
-        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</link>
-        <pubDate>Wed, 19 Feb 2020 23:05:40 +0000</pubDate>
-        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
-        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</guid>
         <description></description>
       </item>
       

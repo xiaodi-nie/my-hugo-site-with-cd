@@ -8,12 +8,57 @@
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
-    <lastBuildDate>Mon, 24 Feb 2020 21:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 23:32:58 +0000</lastBuildDate>
     
         <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/course-notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Cloud Analysis Course Notes - Serverless Architecture</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw9-lambda/</link>
+        <pubDate>Tue, 31 Mar 2020 23:32:58 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw9-lambda/</guid>
+        <description>What are the tradeoffs with a serverless architecture? There are many advantages of using a serverless architecture, and to name a few:
+Lower operation cost: You don’t have to set up infrastructure and can pay for only what you use.
+Less time to market: The serverless architecture style motivates to use existing or third party services. Because functions are small and have a clear responsibility the likelihood for reusing existing functions increases.</description>
+      </item>
+      
+      <item>
+        <title>Cloud Analysis Course Notes - Cloud Storage and Data Lakes</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw8-datalake/</link>
+        <pubDate>Tue, 10 Mar 2020 01:05:21 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw8-datalake/</guid>
+        <description>What are the key differences between block and object storage? I found this comparison and found it very helpful:
+    Block Storage Object Storage     Performance Performs best for big content and high stream throughput Strong performance with database and transactional data   Geography Data can be stored across multiple regions The greater the distance between storage and application, the higher the latency   Scalability Can scale infinitely to petabytes and beyond Addressing requirements limit scalability   Analytics Customizable metadata allows data to be easily organized and retrieved No metadata    Block storage means saving data in blocks, or raw storage volumes.</description>
+      </item>
+      
+      <item>
+        <title>Cloud Analysis course notes - Cloud Databases</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw7-clouddb/</link>
+        <pubDate>Wed, 04 Mar 2020 19:10:57 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw7-clouddb/</guid>
+        <description>What are the problems with a “one size fits all” approach to relational databases? In the past, the reason why so many businesses model their data to try and fit the use cases of a relational database is that there is no other choice, so in reality many kinds of data are actually not suitable for relational model. Of course this is not to say relational databases cannot provide scalable, available and high performance service, it’s just that we now have many other database models to better suit different use cases.</description>
+      </item>
+      
+      <item>
+        <title>Cloud Analysis course discussion notes - Docker</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/notes-on-docker/</link>
+        <pubDate>Thu, 27 Feb 2020 20:22:43 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/notes-on-docker/</guid>
+        <description>Docker&amp;rsquo;s two modes Interactive
+usage example: run jupyter, add python2.7 to test
+Background
+usage example: run as server(running forever), website
+Docker is basically a better version of virtualenv, where you have an seperate environment (and a set of package versions) for every container
+Docker workflow example Here are the steps I did to containerize a simple flask app.
+ Create Github repo Create ssh keys and upload to Github Git clone Create a local python virtual environment and source: python 3 -m venv ~/.</description>
+      </item>
       
       <item>
         <title>Cloud Analysis course discussion note - ASICs</title>

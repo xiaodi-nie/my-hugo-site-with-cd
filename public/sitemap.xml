@@ -4,21 +4,136 @@
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/</loc>
-    <lastmod>2020-02-27T00:37:02+00:00</lastmod>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/cloud-api/</loc>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/</loc>
-    <lastmod>2020-02-27T00:37:02+00:00</lastmod>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/chicken-marsala/</loc>
-    <lastmod>2020-02-27T00:37:02+00:00</lastmod>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/coding/</loc>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/google-cloud/</loc>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/</loc>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/serverless/</loc>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/</loc>
+    <lastmod>2020-04-03T02:16:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</loc>
+    <lastmod>2020-04-01T20:25:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/map-reduce/</loc>
+    <lastmod>2020-04-01T20:25:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/wordcount-on-emr/</loc>
+    <lastmod>2020-04-01T20:25:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/spark/</loc>
+    <lastmod>2020-04-01T20:25:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw9-lambda/</loc>
+    <lastmod>2020-03-31T23:32:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/course-notes/</loc>
+    <lastmod>2020-03-31T23:32:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/vue/</loc>
+    <lastmod>2020-03-18T20:25:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/vue-package-config/</loc>
+    <lastmod>2020-03-18T20:25:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/vue-lifecycle/</loc>
+    <lastmod>2020-03-14T21:19:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw8-datalake/</loc>
+    <lastmod>2020-03-10T01:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-storage/</loc>
+    <lastmod>2020-03-10T01:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/data-lakes/</loc>
+    <lastmod>2020-03-10T01:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw7-clouddb/</loc>
+    <lastmod>2020-03-04T19:10:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</loc>
+    <lastmod>2020-03-04T19:10:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-databases/</loc>
+    <lastmod>2020-03-04T19:10:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/notes-on-docker/</loc>
+    <lastmod>2020-02-27T20:22:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</loc>
+    <lastmod>2020-02-27T20:22:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/docker/</loc>
+    <lastmod>2020-02-27T20:22:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/chicken-marsala/</loc>
     <lastmod>2020-02-27T00:37:02+00:00</lastmod>
   </url>
   
@@ -29,11 +144,6 @@
   
   <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/savory-recipe/</loc>
-    <lastmod>2020-02-27T00:37:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/</loc>
     <lastmod>2020-02-27T00:37:02+00:00</lastmod>
   </url>
   
@@ -73,16 +183,6 @@
   </url>
   
   <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/coding/</loc>
-    <lastmod>2020-02-24T21:25:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/categories/course-notes/</loc>
-    <lastmod>2020-02-24T21:25:08+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/machine-learning/</loc>
     <lastmod>2020-02-24T21:25:08+00:00</lastmod>
   </url>
@@ -93,23 +193,8 @@
   </url>
   
   <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/cloud-computing/</loc>
-    <lastmod>2020-02-20T02:08:02+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/hw4-containers/</loc>
     <lastmod>2020-02-19T23:36:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/</loc>
-    <lastmod>2020-02-19T23:36:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/aws/</loc>
-    <lastmod>2020-02-19T23:05:40+00:00</lastmod>
   </url>
   
   <url>

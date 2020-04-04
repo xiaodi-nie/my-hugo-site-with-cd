@@ -8,12 +8,27 @@
     <language>en</language>
     <managingEditor>niexiaodi.1970@gmail.com (Xanthia Nie)</managingEditor>
     <webMaster>niexiaodi.1970@gmail.com (Xanthia Nie)</webMaster>
-    <lastBuildDate>Wed, 19 Feb 2020 23:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 20:22:43 +0000</lastBuildDate>
     
         <atom:link href="http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/tags/containers/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Cloud Analysis course discussion notes - Docker</title>
+        <link>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/notes-on-docker/</link>
+        <pubDate>Thu, 27 Feb 2020 20:22:43 +0000</pubDate>
+        <author>niexiaodi.1970@gmail.com (Xanthia Nie)</author>
+        <guid>http://jan23-website-hosting.s3-website-us-east-1.amazonaws.com/posts/notes-on-docker/</guid>
+        <description>Docker&amp;rsquo;s two modes Interactive
+usage example: run jupyter, add python2.7 to test
+Background
+usage example: run as server(running forever), website
+Docker is basically a better version of virtualenv, where you have an seperate environment (and a set of package versions) for every container
+Docker workflow example Here are the steps I did to containerize a simple flask app.
+ Create Github repo Create ssh keys and upload to Github Git clone Create a local python virtual environment and source: python 3 -m venv ~/.</description>
+      </item>
       
       <item>
         <title>Cloud Analysis course notes - Containers</title>
