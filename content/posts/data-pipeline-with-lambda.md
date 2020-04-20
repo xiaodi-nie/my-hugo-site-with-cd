@@ -33,7 +33,7 @@ First a producer lambda function will be invoked every minute, and it would acce
 - Create a basic Cloud9 environment and connect
 - On the right panel find `AWS Resources - Lambda - Create a new Lambda function`
 - In the wizard choose `python3.6` as the runtime, leave the trigger as `none`, and remember to give it a role with `AdministratorAccess`
-- Paste in the producer code
+- Paste in the producer code. The lambda source code of this project can be found [here](https://github.com/xiaodi-nie/simple-awslambda-pipeline)
 - Install 3rd party packages
 
     The good thing about lambda python environment is that it comes with a virtual environment. Just activate it and install the packages to the right folder.
