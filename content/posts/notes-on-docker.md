@@ -1,5 +1,5 @@
 ---
-title: "Cloud Analysis course discussion notes - Docker"
+title: "Notes on Docker and a workflow example"
 date: 2020-02-27T20:22:43Z
 draft: false
 description: "course notes on docker"

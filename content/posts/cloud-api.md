@@ -31,8 +31,8 @@ Cloud Functions on GCP allows developers to build lightweight API quickly that s
 
 Here we used the wikipedia library to get the info and google translate library to translate that info into any language. Don't forget to put the function name into the `Function to execute` box to make sure the right code is executed when you invoke the API.
 
-*main.py*
-```python
+
+```main.py
 import wikipedia
 
 from google.cloud import translate
@@ -79,8 +79,8 @@ def translate_test(request):
 
 Here the `Function to execute` is `translate_test`
 
-*requirements.txt*
-```
+
+```requirements.txt
 # Function dependencies, for example:
 # package>=version
 wikipedia
