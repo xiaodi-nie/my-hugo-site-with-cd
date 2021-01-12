@@ -1,7 +1,6 @@
 ---
 title: "Egg Tart"
 date: 2021-01-12T01:01:05Z
-date: 2020-02-26T23:57:07Z
 draft: false
 description: "Creamy and crunchy. Our favourite dessert to make at home."
 hideToc: false
